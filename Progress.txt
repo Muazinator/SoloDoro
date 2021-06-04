@@ -1,0 +1,15 @@
+
+-------------------------------------------------------------------------------------
+06/03/2021
+Today I Accomplished:
+Uninstalling old Java, old VS versions on machine, cleaned up env variables, removed blockers for getting started
+Installed Java 11.1, git bash, vscode, live server extension, Eva theme extension
+Created Git Repo and linked it to my vscode
+Created some file structure and copied code for a timer to test
+
+Goals for next/future session:
+Research: How the timer works and how to make it better
+Research: How to change appearance of timer (CSS, HTML)
+Research: How to add more functions 
+Add to wish list
+Watch some videos from bookmarked list
