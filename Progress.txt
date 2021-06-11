@@ -1,3 +1,5 @@
+06/05/2021
+Short day today due to hw and general busy-ness. Made a .js file for solodoro, but I can't get the script to work inside of an html page that has other elements like an H1.
 
 -------------------------------------------------------------------------------------
 06/03/2021
