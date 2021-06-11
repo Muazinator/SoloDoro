@@ -4,6 +4,32 @@ body {
 }
 
 h1{
-    color:whitesmoke;
+    color:navajowhite;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+    color:whitesmoke;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+#pomo_length{
+    font-family: sans-serif;
+    border: none;
+    border-radius: 5px;
+    width:60%;
+    min-width: 300px;
+    max-width: 700px;
+}
+
+button{
+    font-family: sans-serif;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover{
+    color:white;
+    background-color:lightpink;
 }

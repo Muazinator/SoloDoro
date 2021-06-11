@@ -1,3 +1,6 @@
+06/10/2021
+I worked on the project a couple of days ago but I did not make an update to the progress log. Progress since 06/05 includes adding a css sheet with a few items. I'm doing this JOMA class to see if I can figure out how to include the JS in it too. In a gray area right now, of understanding concepts but not yet executing correctly, because the image and JS don't work.
+
 06/05/2021
 Short day today due to hw and general busy-ness. Made a .js file for solodoro, but I can't get the script to work inside of an html page that has other elements like an H1.
 
